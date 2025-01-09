@@ -1,0 +1,4 @@
+.venv
+.chainlit
+__pycache__
+certs
